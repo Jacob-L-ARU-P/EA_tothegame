@@ -1,0 +1,7 @@
+https://www.kaggle.com/datasets/aryashah2k/dad-a-base-of-jokes
+https://www.kaggle.com/datasets/siddharthkumarsah/ships-in-aerial-images
+https://www.kaggle.com/datasets/kamyababedi/lbma-gold-prices-1968-2023
+https://www.kaggle.com/datasets/anmolbajpai/planetary-systems-nasa-exoplanet-archive
+https://www.kaggle.com/datasets/jbomitchell/gemstone-price-modelling
+https://www.kaggle.com/competitions/icecube-neutrinos-in-deep-ice
+https://www.kaggle.com/competitions/spaceship-titanic

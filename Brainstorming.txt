@@ -1,0 +1,20 @@
+Enterprise Analytics:
+- Investment
+- Marketing
+- Survey's
+- Market Share
+- Product Niches
+- Performance Data (I.e. Warehouse, Factory, Shop I/O)
+- Business to Business (B2B)
+- Recruitment
+- Service Coverage
+
+/////////////////////////////////////////////////////////
+
+Case Study Methods:
+- Linear Programming
+- Statistical Analysis
+- Differentiation modelling 
+
+/////////////////////////////////////////////////////////
+
